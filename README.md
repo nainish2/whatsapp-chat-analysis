@@ -5,8 +5,7 @@ Pandas Visual Guide : https://drive.google.com/file/d/1wKnQ6SVb5pICm-ckboYZotFWK
 
 Matplotlib Tutorials : https://matplotlib.org/tutorials/index.html
 
-Python notebook link https://nbviewer.jupyter.org/github/nainish2/whatsapp-chat-analysis/blob/master/whatsapp_chat_analysis.ipynb
-Each and every aspect is made understandable in this notebook.
+Each and every aspect is made understandable in the jupyter python notebook provided above.
 The csv file which will form after processing the .txt file and the .txt file which is taken is provided above.
 
 For further prefrences connect me through linkedin https://www.linkedin.com/in/nainish-aggarwal-4b8702a4/
